@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\tuan\Desktop\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\tuan\Desktop\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\tuan\Desktop\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\StopWatch\obj\Debug\StopWatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\tuan\Desktop\StopWatch\obj\Debug\StopWatch.pdb
